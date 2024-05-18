@@ -65,7 +65,12 @@ Videe-Group-Meeting is a simple video chat application for multi-users based on 
 
 ## Todo 🔨🔨🔨
 
-- [x] Switch Camera options
+- [x] 화상 플랫폼 구현
+- [x] 실시간 자막
+- [x] Dialog 창
+- [x] 실시간 회의록
+- [x] 실시간 워드 클라우드
+- [x] 회의록 다운로드
 
 ## License
 [MIT License](./LICENSE)
